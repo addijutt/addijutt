@@ -1,16 +1,29 @@
-## Hi there 👋
+# 🚀 Hi there! I'm Dilawar 👋  
 
-<!--
-**addijutt/addijutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 MERN Stack Developer | React & Next.js Expert | Tailwind CSS Enthusiast  
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a **MERN Stack Developer** specializing in:  
+- ⚛️ **React.js & Next.js** – Building modern, fast, and scalable UIs  
+- 🎨 **Tailwind CSS** – Crafting beautiful, responsive designs with utility-first styling  
+- 🖥️ **Node.js & Express.js** – Backend APIs with performance in mind  
+- 📦 **MongoDB & SQL** – Database architecture and optimization  
+- 🎨 **Figma to HTML/CSS** – Pixel-perfect, responsive web design  
+- 🔍 **SEO Optimization** – Ensuring better visibility for web projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💼 I Have a Team!  
+I lead a team of talented Full-Stack developers, designers, and an SEO expert. Together, we build **high-quality web applications** that deliver results.  
+
+### 📌 What I’m Working On  
+- 🔥 Building **scalable web applications** with React & Next.js  
+- 🎨 Creating **modern UI designs** with Tailwind CSS and latest Bootstrap 5 
+- 🌎 Optimizing my **LinkedIn & GitHub presence**  
+- 🚀 Scaling up my **web development services**  
+
+### 📬 Let's Connect!  
+💼 [LinkedIn](https://linkedin.com/in/dilawar-hussain44/) |  🌐 [Portfolio](https://dilawar-hussain.netlify.app/)  
+
+💌 Open to collaborations, freelance work, and exciting projects!  
+
+---
+
+🔥 **_Check out my repositories below!_** 🚀  
