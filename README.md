@@ -20,7 +20,7 @@ I lead a team of talented Full-Stack developers, designers, and an SEO expert. T
 - 🚀 Scaling up my **web development services**  
 
 ### 📬 Let's Connect!  
-💼 [LinkedIn](https://linkedin.com/in/dilawar-hussain44/) |  🌐 [Portfolio](https://dilawar-hussain.netlify.app/)  
+💼 [LinkedIn](https://linkedin.com/in/dilawar-hussain44/) |  🌐 [Portfolio](https://www.fiverr.com/users/addijutt/portfolio)  
 
 💌 Open to collaborations, freelance work, and exciting projects!  
 
