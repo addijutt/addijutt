@@ -1,4 +1,4 @@
-# 🚀 Hi there! I'm Dilawar 👋  
+# 🚀 Hi there! I'm Abdullah 👋  
 
 ### 🧑‍💻 MERN Stack Developer | React & Next.js Expert | Tailwind CSS Enthusiast  
 
